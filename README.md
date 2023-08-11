@@ -40,7 +40,7 @@ Non-relational database (NoSQL) stores data in any format other than the relatio
 ![](VIEW_TABLE_PERFORMANCE.JPG)
 
 - ## Making Student_id Primary 🔐
-![](STUDENT_ID PRIMARY_KEY.JPG)
+![](PRIMARY_KEY.jpg)
 
 - ## Drop column age in Student_info
 ![](DROP_COLUMN_AGE.JPG)
