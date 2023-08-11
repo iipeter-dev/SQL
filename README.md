@@ -10,7 +10,7 @@ A database is a structured collection of data that is organized and stored in a 
 Relational database is a type of database that organizes data into rows and columns hence the name ‘relational’.
 Non-relational database (NoSQL) stores data in any format other than the relational (rows and columns) format. 
 
-# Working on Relational dSTUDENT_RECORDatabase
+# Working on Relational database
 ## Lets Jump into the world of SQL
 # Creating a Database
 ## Using SQL syntax Student_record
@@ -33,3 +33,16 @@ Non-relational database (NoSQL) stores data in any format other than the relatio
 ![](INSERT_INTO_STUDENT_INFO.JPG)
 ![](INSERT_INTO_HEALTH_RECORD.JPG)
 ![](INSERT_INTO_PERFORMANCE.JPG)
+
+- ## Veiw records inserted using SQL codes
+![](VIEW_TABLE_STUDENT_INFO.JPG)
+![](VIEW_TABLE_HEALTH_RECORDS.JPG)
+![](VIEW_TABLE_PERFORMANCE.JPG)
+
+- ## Making Student_id Primary 🔐
+![](STUDENT_ID PRIMARY_KEY.JPG)
+
+- ## Drop column age in Student_info
+![](DROP_COLUMN_AGE.JPG)
+
+## End of Task One
